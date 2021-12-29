@@ -4,7 +4,7 @@ I'm a FullStack developer at Bigfer.
 
 Currently core maintaner of a new intern web system based on a Javascript stack who will replace the legacy systems based on Delphi and Php.
 
-My job is deal with a Api development with Nestjs and Oracle Database, frontend development with Nextjs, deployment with github actions on linux servers, maintenance and some emergencial features on legacy systems.
+My job is deal with API development with Nestjs and Oracle Database, frontend development with Nextjs, deployment with github actions on linux servers, maintenance and some emergencial features on legacy systems.
 
 What i can do? What need to be done. I can't be especialist but my expertise in networks, hardware, linux servers and fast learning make me do the job.
 
